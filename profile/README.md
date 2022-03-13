@@ -1,5 +1,5 @@
 <div align="center">
-<a href="invite/"> 
+<a href="https://discord.rover.de/invite/"> 
   <img src="https://img.shields.io/discord/712004108344885341?color=cc1f2f&label=Discord&logo=Discord&logoColor=cc1f2f&style=for-the-badge" width="42%"/> 
 </a>
 </div>
